@@ -1,0 +1,9 @@
+{
+    "name": "Novo Nome",
+    "data": {
+       "year": 2020,
+       "price": 799.99,
+       "CPU model": "Mac Core i9",
+       "Hard disk size": "Testando LTDA"
+    }
+}
